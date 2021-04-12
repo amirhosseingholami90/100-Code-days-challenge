@@ -1,4 +1,8 @@
-# 100-Code-days-challenge
+# 100 Days with Code challenge
+
+**Which Languages**
+Java
+Python
 
 | Day| Source of Problem | Python Code | Java Code |
 | -- | ----------------- | ----------- | --------- |
